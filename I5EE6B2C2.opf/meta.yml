@@ -1,0 +1,16 @@
+id: I5EE6B2C2
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:05:36.803735
+last_modified: 2023-02-08 16:05:36.803845
+source_metadata:
+  title: 'Mātṛceṭa: Śatapañcāśatka'
+  language: sa
+bases:
+  7C3F:
+    base_file: 7C3F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

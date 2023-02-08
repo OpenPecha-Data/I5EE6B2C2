@@ -1,0 +1,71 @@
+id: 9e0ff013c39d43838aa3b269abed9c6b
+annotation_type: index
+revision: '00001'
+annotations:
+  4c496b846fb84dbf9523e191a0ebdad0:
+    base: 7C3F.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 31
+    - title: Preface
+      span:
+        start: 32
+        end: 43
+    - title: 'Chapter 1: Upodghātaḥ'
+      span:
+        start: 44
+        end: 944
+    - title: 'Chapter 2: Hetustavaḥ'
+      span:
+        start: 945
+        end: 2636
+    - title: 'Chapter 3: Nirupamastavaḥ'
+      span:
+        start: 2637
+        end: 4155
+    - title: 'Chapter 4: Adbhutastavaḥ'
+      span:
+        start: 4156
+        end: 5166
+    - title: 'Chapter 5: Rūpastavaḥ'
+      span:
+        start: 5167
+        end: 5781
+    - title: 'Chapter 6: Karuṇāstavaḥ'
+      span:
+        start: 5782
+        end: 6689
+    - title: 'Chapter 7: Vacanastavaḥ'
+      span:
+        start: 6690
+        end: 8188
+    - title: 'Chapter 8: Śāsanastavaḥ'
+      span:
+        start: 8189
+        end: 9179
+    - title: 'Chapter 9: Praṇidhistavaḥ'
+      span:
+        start: 9180
+        end: 10206
+    - title: 'Chapter 10: Mārgaāvatārastavaḥ'
+      span:
+        start: 10207
+        end: 11291
+    - title: 'Chapter 11: Duṣkarastavaḥ'
+      span:
+        start: 11292
+        end: 12402
+    - title: 'Chapter 12: Kauśalastavaḥ'
+      span:
+        start: 12403
+        end: 13525
+    - title: 'Chapter 13: Ānṛṇyastavaḥ'
+      span:
+        start: 13526
+        end: 15522
+    - title: Colophon
+      span:
+        start: 15523
+        end: 15533
